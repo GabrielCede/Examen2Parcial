@@ -1,0 +1,13 @@
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\bin\Debug\netcoreapp3.1\PatronSingletonProyecto.exe
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\bin\Debug\netcoreapp3.1\PatronSingletonProyecto.deps.json
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\bin\Debug\netcoreapp3.1\PatronSingletonProyecto.runtimeconfig.json
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\bin\Debug\netcoreapp3.1\PatronSingletonProyecto.runtimeconfig.dev.json
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\bin\Debug\netcoreapp3.1\PatronSingletonProyecto.dll
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\bin\Debug\netcoreapp3.1\PatronSingletonProyecto.pdb
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.csprojAssemblyReference.cache
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.AssemblyInfoInputs.cache
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.AssemblyInfo.cs
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.dll
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.pdb
+C:\Users\ecker\source\repos\PatronSingletonSolucion\PatronSingletonProyecto\obj\Debug\netcoreapp3.1\PatronSingletonProyecto.genruntimeconfig.cache
